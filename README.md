@@ -1,1 +1,1 @@
-# SAS
+# Scratch Addons Settings
