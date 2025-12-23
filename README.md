@@ -12,3 +12,5 @@ Settings: https://www.mediafire.com/file/6k5qjb08v3gg017/scratch-addons-settings
 ------
 Reset: https://www.mediafire.com/file/x38iliut07ron5v/scratch-addons-settings-reset.json/file
 ------
+Defalt: https://www.mediafire.com/file/seg5v4qnw90tg0k/scratch-addons-settings-defalt.json/file
+------
