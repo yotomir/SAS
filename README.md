@@ -6,7 +6,7 @@ Scratch Addons: https://chromewebstore.google.com/detail/scratch-addons/fbeffbjd
 ------
 More: https://youtube.com/@ScratchAddons/
 ------
-More: https://scratchaddons.com/addons/
+More: [Scratch Addons Website](https://scratchaddons.com/addons/)
 ------
 Settings: [Go to Download](https://www.mediafire.com/file/3gl9bfntgioozu2/scratch-addons-settings-yp8.json/file)
 ------
